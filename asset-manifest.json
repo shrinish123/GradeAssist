@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/GradeAssist/static/css/main.fba2a487.chunk.css",
+    "main.js": "/GradeAssist/static/js/main.47f5766a.chunk.js",
+    "main.js.map": "/GradeAssist/static/js/main.47f5766a.chunk.js.map",
+    "runtime-main.js": "/GradeAssist/static/js/runtime-main.4760ce6b.js",
+    "runtime-main.js.map": "/GradeAssist/static/js/runtime-main.4760ce6b.js.map",
+    "static/js/2.8804c2fe.chunk.js": "/GradeAssist/static/js/2.8804c2fe.chunk.js",
+    "static/js/2.8804c2fe.chunk.js.map": "/GradeAssist/static/js/2.8804c2fe.chunk.js.map",
+    "index.html": "/GradeAssist/index.html",
+    "precache-manifest.a7e9a6e94adf5e046594ef408f91dc6a.js": "/GradeAssist/precache-manifest.a7e9a6e94adf5e046594ef408f91dc6a.js",
+    "service-worker.js": "/GradeAssist/service-worker.js",
+    "static/css/main.fba2a487.chunk.css.map": "/GradeAssist/static/css/main.fba2a487.chunk.css.map",
+    "static/js/2.8804c2fe.chunk.js.LICENSE.txt": "/GradeAssist/static/js/2.8804c2fe.chunk.js.LICENSE.txt",
+    "static/media/ADimg.jpg": "/GradeAssist/static/media/ADimg.602eb910.jpg",
+    "static/media/AIimg.jpg": "/GradeAssist/static/media/AIimg.7c7475df.jpg",
+    "static/media/ALGOimg.jpg": "/GradeAssist/static/media/ALGOimg.82e93bd4.jpg",
+    "static/media/COMimg.jpg": "/GradeAssist/static/media/COMimg.26dd095f.jpg",
+    "static/media/DBMSimg.jpg": "/GradeAssist/static/media/DBMSimg.606f2707.jpg",
+    "static/media/DLimg.jpg": "/GradeAssist/static/media/DLimg.30e23c7b.jpg",
+    "static/media/DSimg.jpg": "/GradeAssist/static/media/DSimg.4f2d0014.jpg",
+    "static/media/MLimg.jpg": "/GradeAssist/static/media/MLimg.4c76d29d.jpg",
+    "static/media/OSimg.jpg": "/GradeAssist/static/media/OSimg.d9048313.jpg",
+    "static/media/SCimg.jpg": "/GradeAssist/static/media/SCimg.09417236.jpg",
+    "static/media/VRimg.jpg": "/GradeAssist/static/media/VRimg.f43620bb.jpg",
+    "static/media/WDimg.jpg": "/GradeAssist/static/media/WDimg.0b3960c4.jpg",
+    "static/media/Home.module.css": "/GradeAssist/static/media/darkBackground.04feee95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4760ce6b.js",
+    "static/js/2.8804c2fe.chunk.js",
+    "static/css/main.fba2a487.chunk.css",
+    "static/js/main.47f5766a.chunk.js"
+  ]
+}
