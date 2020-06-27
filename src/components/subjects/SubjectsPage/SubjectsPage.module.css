@@ -1,0 +1,11 @@
+.header{
+    color:black;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin-bottom:3rem;
+}
+.background{
+    height:100%;
+    background-color:#F7F5F5;
+}
