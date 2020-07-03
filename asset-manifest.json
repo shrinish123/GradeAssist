@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/GradeAssist/static/css/main.f696df94.chunk.css",
-    "main.js": "/GradeAssist/static/js/main.7a7e3078.chunk.js",
-    "main.js.map": "/GradeAssist/static/js/main.7a7e3078.chunk.js.map",
+    "main.js": "/GradeAssist/static/js/main.4d0f9e48.chunk.js",
+    "main.js.map": "/GradeAssist/static/js/main.4d0f9e48.chunk.js.map",
     "runtime-main.js": "/GradeAssist/static/js/runtime-main.4760ce6b.js",
     "runtime-main.js.map": "/GradeAssist/static/js/runtime-main.4760ce6b.js.map",
-    "static/js/2.eeab9207.chunk.js": "/GradeAssist/static/js/2.eeab9207.chunk.js",
-    "static/js/2.eeab9207.chunk.js.map": "/GradeAssist/static/js/2.eeab9207.chunk.js.map",
+    "static/js/2.b0461675.chunk.js": "/GradeAssist/static/js/2.b0461675.chunk.js",
+    "static/js/2.b0461675.chunk.js.map": "/GradeAssist/static/js/2.b0461675.chunk.js.map",
     "index.html": "/GradeAssist/index.html",
-    "precache-manifest.3ad7dce69de65ab8ea240f4a300557ee.js": "/GradeAssist/precache-manifest.3ad7dce69de65ab8ea240f4a300557ee.js",
+    "precache-manifest.7dec7fa3ee94ce7f86901489a6caf359.js": "/GradeAssist/precache-manifest.7dec7fa3ee94ce7f86901489a6caf359.js",
     "service-worker.js": "/GradeAssist/service-worker.js",
     "static/css/main.f696df94.chunk.css.map": "/GradeAssist/static/css/main.f696df94.chunk.css.map",
-    "static/js/2.eeab9207.chunk.js.LICENSE.txt": "/GradeAssist/static/js/2.eeab9207.chunk.js.LICENSE.txt",
+    "static/js/2.b0461675.chunk.js.LICENSE.txt": "/GradeAssist/static/js/2.b0461675.chunk.js.LICENSE.txt",
     "static/media/ADimg.jpg": "/GradeAssist/static/media/ADimg.602eb910.jpg",
     "static/media/AIimg.jpg": "/GradeAssist/static/media/AIimg.7c7475df.jpg",
     "static/media/ALGOimg.jpg": "/GradeAssist/static/media/ALGOimg.82e93bd4.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4760ce6b.js",
-    "static/js/2.eeab9207.chunk.js",
+    "static/js/2.b0461675.chunk.js",
     "static/css/main.f696df94.chunk.css",
-    "static/js/main.7a7e3078.chunk.js"
+    "static/js/main.4d0f9e48.chunk.js"
   ]
 }
