@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8daa27f0b5a456ee9aeeeef002552a50",
+    "revision": "8501f6500a3a1ca13ef90f982af66db1",
     "url": "/GradeAssist/index.html"
   },
   {
-    "revision": "f29970de71b9db6b9795",
+    "revision": "ba1139da1c3677b4c2d4",
     "url": "/GradeAssist/static/css/main.f696df94.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GradeAssist/static/js/2.eeab9207.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f29970de71b9db6b9795",
-    "url": "/GradeAssist/static/js/main.e39ce8a2.chunk.js"
+    "revision": "ba1139da1c3677b4c2d4",
+    "url": "/GradeAssist/static/js/main.7a7e3078.chunk.js"
   },
   {
     "revision": "b656cbdba8137895dccc",
