@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/GradeAssist/static/css/main.fba2a487.chunk.css",
-    "main.js": "/GradeAssist/static/js/main.47f5766a.chunk.js",
-    "main.js.map": "/GradeAssist/static/js/main.47f5766a.chunk.js.map",
+    "main.css": "/GradeAssist/static/css/main.f696df94.chunk.css",
+    "main.js": "/GradeAssist/static/js/main.7a7e3078.chunk.js",
+    "main.js.map": "/GradeAssist/static/js/main.7a7e3078.chunk.js.map",
     "runtime-main.js": "/GradeAssist/static/js/runtime-main.4760ce6b.js",
     "runtime-main.js.map": "/GradeAssist/static/js/runtime-main.4760ce6b.js.map",
-    "static/js/2.8804c2fe.chunk.js": "/GradeAssist/static/js/2.8804c2fe.chunk.js",
-    "static/js/2.8804c2fe.chunk.js.map": "/GradeAssist/static/js/2.8804c2fe.chunk.js.map",
+    "static/js/2.eeab9207.chunk.js": "/GradeAssist/static/js/2.eeab9207.chunk.js",
+    "static/js/2.eeab9207.chunk.js.map": "/GradeAssist/static/js/2.eeab9207.chunk.js.map",
     "index.html": "/GradeAssist/index.html",
-    "precache-manifest.a7e9a6e94adf5e046594ef408f91dc6a.js": "/GradeAssist/precache-manifest.a7e9a6e94adf5e046594ef408f91dc6a.js",
+    "precache-manifest.cac2facb6b2625ce7459898cf4a23ba4.js": "/GradeAssist/precache-manifest.cac2facb6b2625ce7459898cf4a23ba4.js",
     "service-worker.js": "/GradeAssist/service-worker.js",
-    "static/css/main.fba2a487.chunk.css.map": "/GradeAssist/static/css/main.fba2a487.chunk.css.map",
-    "static/js/2.8804c2fe.chunk.js.LICENSE.txt": "/GradeAssist/static/js/2.8804c2fe.chunk.js.LICENSE.txt",
+    "static/css/main.f696df94.chunk.css.map": "/GradeAssist/static/css/main.f696df94.chunk.css.map",
+    "static/js/2.eeab9207.chunk.js.LICENSE.txt": "/GradeAssist/static/js/2.eeab9207.chunk.js.LICENSE.txt",
     "static/media/ADimg.jpg": "/GradeAssist/static/media/ADimg.602eb910.jpg",
     "static/media/AIimg.jpg": "/GradeAssist/static/media/AIimg.7c7475df.jpg",
     "static/media/ALGOimg.jpg": "/GradeAssist/static/media/ALGOimg.82e93bd4.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4760ce6b.js",
-    "static/js/2.8804c2fe.chunk.js",
-    "static/css/main.fba2a487.chunk.css",
-    "static/js/main.47f5766a.chunk.js"
+    "static/js/2.eeab9207.chunk.js",
+    "static/css/main.f696df94.chunk.css",
+    "static/js/main.7a7e3078.chunk.js"
   ]
 }
