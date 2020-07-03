@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GradeAssist/static/css/main.f696df94.chunk.css",
-    "main.js": "/GradeAssist/static/js/main.e39ce8a2.chunk.js",
-    "main.js.map": "/GradeAssist/static/js/main.e39ce8a2.chunk.js.map",
+    "main.js": "/GradeAssist/static/js/main.7a7e3078.chunk.js",
+    "main.js.map": "/GradeAssist/static/js/main.7a7e3078.chunk.js.map",
     "runtime-main.js": "/GradeAssist/static/js/runtime-main.4760ce6b.js",
     "runtime-main.js.map": "/GradeAssist/static/js/runtime-main.4760ce6b.js.map",
     "static/js/2.eeab9207.chunk.js": "/GradeAssist/static/js/2.eeab9207.chunk.js",
     "static/js/2.eeab9207.chunk.js.map": "/GradeAssist/static/js/2.eeab9207.chunk.js.map",
     "index.html": "/GradeAssist/index.html",
-    "precache-manifest.797d1dbecd4843630462adaceb1f417f.js": "/GradeAssist/precache-manifest.797d1dbecd4843630462adaceb1f417f.js",
+    "precache-manifest.cac2facb6b2625ce7459898cf4a23ba4.js": "/GradeAssist/precache-manifest.cac2facb6b2625ce7459898cf4a23ba4.js",
     "service-worker.js": "/GradeAssist/service-worker.js",
     "static/css/main.f696df94.chunk.css.map": "/GradeAssist/static/css/main.f696df94.chunk.css.map",
     "static/js/2.eeab9207.chunk.js.LICENSE.txt": "/GradeAssist/static/js/2.eeab9207.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.4760ce6b.js",
     "static/js/2.eeab9207.chunk.js",
     "static/css/main.f696df94.chunk.css",
-    "static/js/main.e39ce8a2.chunk.js"
+    "static/js/main.7a7e3078.chunk.js"
   ]
 }
